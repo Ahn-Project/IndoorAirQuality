@@ -47,7 +47,7 @@
 
 ## Installation
 * python 및 패키지 설치 필요
-    - ([Package Version.txt](https://help.github.com/articles/cloning-a-repository/))
+    - ([Package Version.txt](https://github.com/Ahn-Project/IndoorAirQuality/blob/master/Package%20Version.txt))
 
 ## Usage
 1. 다운로드 ('Clone or download')
