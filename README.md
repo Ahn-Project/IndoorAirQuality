@@ -1,5 +1,8 @@
 # README.md
 
+결과물 : 석사 학위 논문 
+[LSTM 기반 실내공기질 다단계 예측 모델 구축](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=abf1406004842703ffe0bdc3ef48d419)
+*(Implementation of LSTM-based Multi-step Forecasting Model of Indoor Air Quality)*
 
 ## Project Name
 창문 개폐에 따른 LSTM 기반 다단계 실내공기질 예측 모델 구축에 관한 연구
